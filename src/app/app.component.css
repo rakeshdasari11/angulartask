@@ -1,0 +1,32 @@
+.modal.show{
+
+    display: block;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.bg-4 {
+  background-color: #483D8B;
+  color: #ffffff;
+}
+.container{
+  background-color:black;
+}
+.foot{
+  background-color:blue;
+}
+.btn-lg{
+  background-color:blue;
+}
+.form-control{
+  width: 300px;
+  align-items: center;
+  margin: 0 auto;
+  float: none;
+  
+}
+.modal-header{
+  background-color: rgba(0, 0, 255, 0.349);
+}
